@@ -1,0 +1,227 @@
+ @media(max-width: 1166px) {
+     .leftsidebar {
+         width: 30px;
+     }
+
+     .l-sideb-list>li>a>span {
+         display: none;
+     }
+
+     .go-back {
+         margin: 20px 0px;
+     }
+
+     .viewcstmr-dstbut>p {
+         width: 13%;
+     }
+
+     .save {
+         margin: 20px 0px;
+     }
+
+
+
+
+ }
+
+ @media(max-width: 992px) {
+     .anucmnt-inpt-wrp {
+         margin-top: 20px;
+     }
+
+     .go-back {
+         margin: 10px 0px;
+     }
+
+     .int-column2>p {
+         margin-top: 10px;
+     }
+
+     .viewcstmr-dstbut>p {
+         width: 17%;
+     }
+
+     .go-back>a {
+         border-radius: 8px;
+     }
+
+     .anucmnt-inpt {
+         margin-bottom: 20px;
+     }
+
+     .Distrbtr-List-r {
+         margin-top: -35px;
+     }
+
+     #distrbtr-List-sec {
+         width: 350px;
+     }
+     .view-rgsted-2>p {
+        margin: 15px 0px;
+        font-size: 14px;
+    }
+ }
+
+ @media(max-width: 767px) {
+     .db-hding>h3 {
+         display: none;
+     }
+
+     .l-sideb-list>li>a {
+         padding: 8px 14px;
+     }
+
+     .db-hding {
+         padding: 10px;
+     }
+
+     .right-sidebar {
+         margin-left: 20px;
+     }
+
+     .logo>a>img {
+         width: 80px;
+     }
+
+     .home-db-wrap {
+         padding-top: 50px;
+     }
+
+     .Editdevicecmp-wrp {
+         padding-top: 8px;
+     }
+
+     .Editdevicecmp-wrp>a {
+         margin-top: 14px;
+         font-size: 13px;
+     }
+
+     .login-butn>a {
+         font-size: 14px;
+     }
+
+     .login-b {
+         width: 300px;
+     }
+
+     .login {
+         padding-top: 30px;
+     }
+
+     .register-b {
+         width: 300px;
+     }
+
+     .register {
+         padding-top: 30px;
+     }
+
+     .go-back>a {
+         padding: 8px;
+         border-radius: 8px;
+         font-size: 14px;
+     }
+
+     .goback-butn>a {
+         font-size: 14px;
+         padding: 8px 16px;
+         border-radius: 8px;
+     }
+
+     .viewcstmr-hding-wrp>h3 {
+         font-size: 16px;
+         margin-top: 3px;
+     }
+
+     .viewcstmr-dstbut>p {
+         width: 38%;
+         font-size: 14px;
+     }
+
+     #distid {
+         width: 74%;
+     }
+
+     .viewcstmr-dstbut {
+         margin-top: 30px;
+     }
+
+     .se-wrp {
+         margin-top: 30px;
+         padding: 6px;
+     }
+
+     .se-wrp>p {
+         font-size: 14px;
+         margin-top: 2px;
+     }
+
+     .se-wrp>input {
+         font-size: 14px;
+     }
+
+     .viewlist>li {
+         display: inherit;
+     }
+
+     .int-column>input {
+         width: 94%;
+     }
+
+     .int-column>textarea {
+         width: 94%;
+     }
+
+     .int-column {
+         margin-top: 10px;
+     }
+     .int-column2>input {
+        padding: 8px;
+    }
+    #rlist {
+        padding: 8px;
+        font-size: 13px;
+    }
+    .radio_tb {
+        display: inherit;
+    }
+    .tabs-flex {
+        display: inherit;
+    }
+    .hello {
+        margin-left: 0px;
+    }
+    .anucmnt-inpt-wrp {
+        margin-top: 0px;
+    }
+    .save>a {
+        padding: 8px;
+        font-size: 14px;
+    }
+    #distrbtr-List-sec {
+        width: 328px;
+    }
+    .intclm {
+        margin-top: 30px;
+    }
+    .int-column2 > textarea {
+        padding: 10px 10px 80px 10px;
+    }
+    .texteditor {
+        margin-top: 0px;
+    }
+    #type {
+        padding: 8px;
+        font-size: 13px;
+    }
+    #state {
+        width: 94%;
+    }
+    #country {
+        width: 94%;
+    }
+    .Listtable-table-2 {
+        min-width: 300px !important;
+    }
+    
+ }
